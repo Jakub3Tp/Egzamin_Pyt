@@ -8,7 +8,7 @@ class Pralka(Urzadzenie):
         self.__numer_prania = 0 # Private
 
     def ustaw_program(self, numer_prania):
-
+        ...
 class Odkurzac(Urzadzenie):
     def __init__(self):
         self.__stan = False
